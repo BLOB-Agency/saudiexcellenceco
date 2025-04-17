@@ -5,6 +5,8 @@ import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
 
 
 const SectionHome = () => {
+
+
     return(
         <section className="section__home">
             <video autoPlay loop muted playsInline >

@@ -1,17 +1,21 @@
 [
-    {
-        "name" : "Abdullah Zaid Al-Meleihi",
-        "role" : "Chairman",
-        "text" : "“Saudi Arabia is proud to be today’s top 5 Ai majors players in the world and at the horizon of 2030 our ambition is limitless. At Saudi Excellence, we are devoted to attracting the best talents from all over the world.”",
-        "picture" : "/assets/abdullah.jpg",
-        "linkedin" : "https://www.linkedin.com/in/abdullah-bin-zaid-al-meleihi-baa33590/"
-    },
-    {
-        "name" : "Omar Mian",
-        "role" : "Chief Innovation Officer",
-        "text" : "“Saudi Excellence is a unique opportunity on the most dynamic market in the world, Monetary International Funds has spot Saudi Arabia as top 3 country by GDP in 2024-2025, making us a major playor in the region. We want to take our part and welcome most innovaties talents team to write a piece of this success story.”",
-        "picture" : "/assets/omar.jpg"
-    }
-   
+  {
+    "name": "Omar Mian",
+    "role": "Chief Innovation Officer",
+    "text": "“Saudi Excellence is a unique opportunity on the most dynamic market in the world, Monetary International Funds has spot Saudi Arabia as top 3 country by GDP in 2024-2025, making us a major playor in the region. We want to take our part and welcome most innovaties talents team to write a piece of this success story.”",
+    "picture": "/assets/omar.jpg"
+  },
+  {
+    "name": "Abdullah Zaid Al-Meleihi",
+    "role": "Chairman",
+    "text": "“Saudi Arabia is proud to be today’s top 5 Ai majors players in the world and at the horizon of 2030 our ambition is limitless. At Saudi Excellence, we are devoted to attracting the best talents from all over the world.”",
+    "picture": "/assets/abdullah.jpg",
+    "linkedin": "https://www.linkedin.com/in/abdullah-bin-zaid-al-meleihi-baa33590/"
+  },
+  {
+    "name": "Dr. Jerome Pierre Bilet",
+    "role": "Partner",
+    "text": "“Dr. Jerome Pierre Bilet has over 40 years of experience in technology, IT, security, cybersecurity, aerospace, and oil & gas. For the last eight years, he was the Director of Strategy at Saudi Advanced Technologies (Wahaj). He co-founded AlliedContech LLC (UAE) and founded Allied Contech (Saudi Arabia). Before that, he spent 20 years managing firms in London, focusing on business development, technology transfer, and joint ventures in cybersecurity and aerospace. He previously founded Chronicle Solutions Plc and ESIA SA, which specialised in cybersecurity and security services. Dr. Bilet holds a PhD in Finance and has published on topics from artificial neural networks to defence technologies.”",
+    "picture": "/assets/jerome-pierre-bilet.jpeg"
+  }
 ]
-
